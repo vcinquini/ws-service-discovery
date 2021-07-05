@@ -1,0 +1,7 @@
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\ServiceClient\bin\Debug\ServiceClient.exe.config
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\ServiceClient\bin\Debug\ServiceClient.exe
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\ServiceClient\bin\Debug\ServiceClient.pdb
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\ServiceClient\obj\x86\Debug\ServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\ServiceClient\obj\x86\Debug\ServiceClient.exe
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\ServiceClient\obj\x86\Debug\ServiceClient.pdb
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\ServiceClient\obj\x86\Debug\ServiceClient.csproj.AssemblyReference.cache

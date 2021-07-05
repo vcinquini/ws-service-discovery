@@ -1,0 +1,11 @@
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\DiscoveryServiceHoot\bin\Debug\DiscoveryServiceHoot.exe.config
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\DiscoveryServiceHoot\bin\Debug\DiscoveryServiceHoot.exe
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\DiscoveryServiceHoot\bin\Debug\DiscoveryServiceHoot.pdb
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\DiscoveryServiceHoot\bin\Debug\SampleDiscoveryService.dll
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\DiscoveryServiceHoot\bin\Debug\SampleDiscoveryService.pdb
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\DiscoveryServiceHoot\bin\Debug\SampleDiscoveryService.dll.config
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\DiscoveryServiceHoot\obj\x86\Debug\DiscoveryServiceHoot.csproj.AssemblyReference.cache
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\DiscoveryServiceHoot\obj\x86\Debug\DiscoveryServiceHoot.csproj.CoreCompileInputs.cache
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\DiscoveryServiceHoot\obj\x86\Debug\DiscoveryServiceHoot.csproj.CopyComplete
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\DiscoveryServiceHoot\obj\x86\Debug\DiscoveryServiceHoot.exe
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\DiscoveryServiceHoot\obj\x86\Debug\DiscoveryServiceHoot.pdb

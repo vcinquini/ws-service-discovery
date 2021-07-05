@@ -1,0 +1,13 @@
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\SampleDicoveryService\bin\Debug\SampleDiscoveryService.dll.config
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\SampleDicoveryService\bin\Debug\SampleDiscoveryService.dll
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\SampleDicoveryService\bin\Debug\SampleDiscoveryService.pdb
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\SampleDicoveryService\obj\Debug\SampleDiscoveryService.csproj.CoreCompileInputs.cache
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\SampleDicoveryService\obj\Debug\SampleDiscoveryService.dll
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\SampleDicoveryService\obj\Debug\SampleDiscoveryService.pdb
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\SampleDiscoveryService\bin\Debug\SampleDiscoveryService.dll.config
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\SampleDiscoveryService\bin\Debug\SampleDiscoveryService.dll
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\SampleDiscoveryService\bin\Debug\SampleDiscoveryService.pdb
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\SampleDiscoveryService\obj\Debug\SampleDiscoveryService.csproj.AssemblyReference.cache
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\SampleDiscoveryService\obj\Debug\SampleDiscoveryService.csproj.CoreCompileInputs.cache
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\SampleDiscoveryService\obj\Debug\SampleDiscoveryService.dll
+C:\Users\valmir.cinquini\source\repos\SampleDiscoveryService\SampleDicoveryService\SampleDiscoveryService\obj\Debug\SampleDiscoveryService.pdb
